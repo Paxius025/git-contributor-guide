@@ -2,9 +2,9 @@
 
 Being a **Contributor** on GitHub means participating in open-source projects or team projects by contributing code, improving documentation, reporting bugs, or proposing new ideas to help improve and develop the project.
 
----
-
 [🇺🇸 English](./README.md) | [🇹🇭 ภาษาไทย](./README_th.md)
+
+---
 
 ## **💡 The Concept of Being a Contributor**
 
@@ -51,6 +51,8 @@ Working in open-source means collaborating with others. Always:
 
 ### **5. Keeping Code Updated**
 Before submitting a Pull Request, ensure that your code is up to date with the latest version to prevent merge conflicts and overwriting recent updates.
+
+**[📖 Contributor Guide](./Contributor-guide.md)**
 
 ---
 

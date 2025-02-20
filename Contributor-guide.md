@@ -2,9 +2,10 @@
 
 Git is an essential tool for **contributors** who want to collaborate on open-source projects effectively. This guide covers key Git commands, best practices, and troubleshooting tips for managing branches, syncing with the upstream repository, resolving merge conflicts, and optimizing workflow efficiency.
 
+[🇺🇸 English](./Contributor-guide.md) | [🇹🇭 ภาษาไทย](./Contributor-guide_th.md)
+
 ---
 
-[🇺🇸 English](./Contributor-guide.md) | [🇹🇭 ภาษาไทย](./Contributor-guide_th.md)
 
 ## **🔹 Essential Git Commands for Contributors**
 
